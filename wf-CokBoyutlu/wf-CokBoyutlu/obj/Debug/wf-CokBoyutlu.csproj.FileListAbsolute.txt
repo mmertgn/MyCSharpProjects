@@ -1,0 +1,10 @@
+C:\Users\Section1\Documents\MS-YAZ16\wf-CokBoyutlu\wf-CokBoyutlu\bin\Debug\wf-CokBoyutlu.exe.config
+C:\Users\Section1\Documents\MS-YAZ16\wf-CokBoyutlu\wf-CokBoyutlu\bin\Debug\wf-CokBoyutlu.exe
+C:\Users\Section1\Documents\MS-YAZ16\wf-CokBoyutlu\wf-CokBoyutlu\bin\Debug\wf-CokBoyutlu.pdb
+C:\Users\Section1\Documents\MS-YAZ16\wf-CokBoyutlu\wf-CokBoyutlu\obj\Debug\wf-CokBoyutlu.csprojResolveAssemblyReference.cache
+C:\Users\Section1\Documents\MS-YAZ16\wf-CokBoyutlu\wf-CokBoyutlu\obj\Debug\wf_CokBoyutlu.Form1.resources
+C:\Users\Section1\Documents\MS-YAZ16\wf-CokBoyutlu\wf-CokBoyutlu\obj\Debug\wf_CokBoyutlu.Properties.Resources.resources
+C:\Users\Section1\Documents\MS-YAZ16\wf-CokBoyutlu\wf-CokBoyutlu\obj\Debug\wf-CokBoyutlu.csproj.GenerateResource.Cache
+C:\Users\Section1\Documents\MS-YAZ16\wf-CokBoyutlu\wf-CokBoyutlu\obj\Debug\wf-CokBoyutlu.exe
+C:\Users\Section1\Documents\MS-YAZ16\wf-CokBoyutlu\wf-CokBoyutlu\obj\Debug\wf-CokBoyutlu.pdb
+C:\Users\Section1\Documents\MS-YAZ16\wf-CokBoyutlu\wf-CokBoyutlu\obj\Debug\wf_CokBoyutlu.Form2.resources

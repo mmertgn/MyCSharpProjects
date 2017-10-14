@@ -1,0 +1,6 @@
+C:\Users\Section1\Documents\MS-YAZ16\derstekrar\cnsl-if\cnsl-if\bin\Debug\cnsl-if.exe.config
+C:\Users\Section1\Documents\MS-YAZ16\derstekrar\cnsl-if\cnsl-if\bin\Debug\cnsl-if.exe
+C:\Users\Section1\Documents\MS-YAZ16\derstekrar\cnsl-if\cnsl-if\bin\Debug\cnsl-if.pdb
+C:\Users\Section1\Documents\MS-YAZ16\derstekrar\cnsl-if\cnsl-if\obj\Debug\cnsl-if.csprojResolveAssemblyReference.cache
+C:\Users\Section1\Documents\MS-YAZ16\derstekrar\cnsl-if\cnsl-if\obj\Debug\cnsl-if.exe
+C:\Users\Section1\Documents\MS-YAZ16\derstekrar\cnsl-if\cnsl-if\obj\Debug\cnsl-if.pdb

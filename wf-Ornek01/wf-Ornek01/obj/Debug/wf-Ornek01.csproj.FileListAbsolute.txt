@@ -1,0 +1,9 @@
+C:\Users\Section1\Documents\MS-YAZ16\wf-Ornek01\wf-Ornek01\bin\Debug\wf-Ornek01.exe.config
+C:\Users\Section1\Documents\MS-YAZ16\wf-Ornek01\wf-Ornek01\bin\Debug\wf-Ornek01.exe
+C:\Users\Section1\Documents\MS-YAZ16\wf-Ornek01\wf-Ornek01\bin\Debug\wf-Ornek01.pdb
+C:\Users\Section1\Documents\MS-YAZ16\wf-Ornek01\wf-Ornek01\obj\Debug\wf-Ornek01.csprojResolveAssemblyReference.cache
+C:\Users\Section1\Documents\MS-YAZ16\wf-Ornek01\wf-Ornek01\obj\Debug\wf_Ornek01.Form1.resources
+C:\Users\Section1\Documents\MS-YAZ16\wf-Ornek01\wf-Ornek01\obj\Debug\wf_Ornek01.Properties.Resources.resources
+C:\Users\Section1\Documents\MS-YAZ16\wf-Ornek01\wf-Ornek01\obj\Debug\wf-Ornek01.csproj.GenerateResource.Cache
+C:\Users\Section1\Documents\MS-YAZ16\wf-Ornek01\wf-Ornek01\obj\Debug\wf-Ornek01.exe
+C:\Users\Section1\Documents\MS-YAZ16\wf-Ornek01\wf-Ornek01\obj\Debug\wf-Ornek01.pdb

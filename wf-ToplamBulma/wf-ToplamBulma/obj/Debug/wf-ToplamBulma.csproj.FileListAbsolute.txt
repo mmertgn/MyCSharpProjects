@@ -1,0 +1,8 @@
+C:\Users\Section1\Documents\MS-YAZ16\wf-ToplamBulma\wf-ToplamBulma\bin\Debug\wf-ToplamBulma.exe.config
+C:\Users\Section1\Documents\MS-YAZ16\wf-ToplamBulma\wf-ToplamBulma\bin\Debug\wf-ToplamBulma.exe
+C:\Users\Section1\Documents\MS-YAZ16\wf-ToplamBulma\wf-ToplamBulma\bin\Debug\wf-ToplamBulma.pdb
+C:\Users\Section1\Documents\MS-YAZ16\wf-ToplamBulma\wf-ToplamBulma\obj\Debug\wf_ToplamBulma.Form1.resources
+C:\Users\Section1\Documents\MS-YAZ16\wf-ToplamBulma\wf-ToplamBulma\obj\Debug\wf_ToplamBulma.Properties.Resources.resources
+C:\Users\Section1\Documents\MS-YAZ16\wf-ToplamBulma\wf-ToplamBulma\obj\Debug\wf-ToplamBulma.csproj.GenerateResource.Cache
+C:\Users\Section1\Documents\MS-YAZ16\wf-ToplamBulma\wf-ToplamBulma\obj\Debug\wf-ToplamBulma.exe
+C:\Users\Section1\Documents\MS-YAZ16\wf-ToplamBulma\wf-ToplamBulma\obj\Debug\wf-ToplamBulma.pdb

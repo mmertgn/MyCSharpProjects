@@ -1,0 +1,9 @@
+C:\Users\Section1\Documents\MS-YAZ16\wf-Donguler\wf-Donguler\bin\Debug\wf-Donguler.exe.config
+C:\Users\Section1\Documents\MS-YAZ16\wf-Donguler\wf-Donguler\bin\Debug\wf-Donguler.exe
+C:\Users\Section1\Documents\MS-YAZ16\wf-Donguler\wf-Donguler\bin\Debug\wf-Donguler.pdb
+C:\Users\Section1\Documents\MS-YAZ16\wf-Donguler\wf-Donguler\obj\Debug\wf-Donguler.csprojResolveAssemblyReference.cache
+C:\Users\Section1\Documents\MS-YAZ16\wf-Donguler\wf-Donguler\obj\Debug\wf_Donguler.Form1.resources
+C:\Users\Section1\Documents\MS-YAZ16\wf-Donguler\wf-Donguler\obj\Debug\wf_Donguler.Properties.Resources.resources
+C:\Users\Section1\Documents\MS-YAZ16\wf-Donguler\wf-Donguler\obj\Debug\wf-Donguler.csproj.GenerateResource.Cache
+C:\Users\Section1\Documents\MS-YAZ16\wf-Donguler\wf-Donguler\obj\Debug\wf-Donguler.exe
+C:\Users\Section1\Documents\MS-YAZ16\wf-Donguler\wf-Donguler\obj\Debug\wf-Donguler.pdb

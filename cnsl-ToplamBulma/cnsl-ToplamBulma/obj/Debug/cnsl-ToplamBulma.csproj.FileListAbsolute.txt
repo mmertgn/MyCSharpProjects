@@ -1,0 +1,6 @@
+C:\Users\Section1\Documents\MS-YAZ16\cnsl-ToplamBulma\cnsl-ToplamBulma\bin\Debug\cnsl-ToplamBulma.exe.config
+C:\Users\Section1\Documents\MS-YAZ16\cnsl-ToplamBulma\cnsl-ToplamBulma\bin\Debug\cnsl-ToplamBulma.exe
+C:\Users\Section1\Documents\MS-YAZ16\cnsl-ToplamBulma\cnsl-ToplamBulma\bin\Debug\cnsl-ToplamBulma.pdb
+C:\Users\Section1\Documents\MS-YAZ16\cnsl-ToplamBulma\cnsl-ToplamBulma\obj\Debug\cnsl-ToplamBulma.csprojResolveAssemblyReference.cache
+C:\Users\Section1\Documents\MS-YAZ16\cnsl-ToplamBulma\cnsl-ToplamBulma\obj\Debug\cnsl-ToplamBulma.exe
+C:\Users\Section1\Documents\MS-YAZ16\cnsl-ToplamBulma\cnsl-ToplamBulma\obj\Debug\cnsl-ToplamBulma.pdb

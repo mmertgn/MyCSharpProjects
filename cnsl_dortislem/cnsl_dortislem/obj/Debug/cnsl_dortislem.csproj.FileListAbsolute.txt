@@ -1,0 +1,6 @@
+C:\Users\Section1\Documents\MS-YAZ16\cnsl_dortislem\cnsl_dortislem\bin\Debug\cnsl_dortislem.exe.config
+C:\Users\Section1\Documents\MS-YAZ16\cnsl_dortislem\cnsl_dortislem\bin\Debug\cnsl_dortislem.exe
+C:\Users\Section1\Documents\MS-YAZ16\cnsl_dortislem\cnsl_dortislem\bin\Debug\cnsl_dortislem.pdb
+C:\Users\Section1\Documents\MS-YAZ16\cnsl_dortislem\cnsl_dortislem\obj\Debug\cnsl_dortislem.csprojResolveAssemblyReference.cache
+C:\Users\Section1\Documents\MS-YAZ16\cnsl_dortislem\cnsl_dortislem\obj\Debug\cnsl_dortislem.exe
+C:\Users\Section1\Documents\MS-YAZ16\cnsl_dortislem\cnsl_dortislem\obj\Debug\cnsl_dortislem.pdb

@@ -1,0 +1,9 @@
+C:\Users\Section1\Documents\MS-YAZ16\wf-IsBasvuruFormu\wf-IsBasvuruFormu\bin\Debug\wf-IsBasvuruFormu.exe.config
+C:\Users\Section1\Documents\MS-YAZ16\wf-IsBasvuruFormu\wf-IsBasvuruFormu\bin\Debug\wf-IsBasvuruFormu.exe
+C:\Users\Section1\Documents\MS-YAZ16\wf-IsBasvuruFormu\wf-IsBasvuruFormu\bin\Debug\wf-IsBasvuruFormu.pdb
+C:\Users\Section1\Documents\MS-YAZ16\wf-IsBasvuruFormu\wf-IsBasvuruFormu\obj\Debug\wf-IsBasvuruFormu.csprojResolveAssemblyReference.cache
+C:\Users\Section1\Documents\MS-YAZ16\wf-IsBasvuruFormu\wf-IsBasvuruFormu\obj\Debug\wf_IsBasvuruFormu.Form1.resources
+C:\Users\Section1\Documents\MS-YAZ16\wf-IsBasvuruFormu\wf-IsBasvuruFormu\obj\Debug\wf_IsBasvuruFormu.Properties.Resources.resources
+C:\Users\Section1\Documents\MS-YAZ16\wf-IsBasvuruFormu\wf-IsBasvuruFormu\obj\Debug\wf-IsBasvuruFormu.csproj.GenerateResource.Cache
+C:\Users\Section1\Documents\MS-YAZ16\wf-IsBasvuruFormu\wf-IsBasvuruFormu\obj\Debug\wf-IsBasvuruFormu.exe
+C:\Users\Section1\Documents\MS-YAZ16\wf-IsBasvuruFormu\wf-IsBasvuruFormu\obj\Debug\wf-IsBasvuruFormu.pdb

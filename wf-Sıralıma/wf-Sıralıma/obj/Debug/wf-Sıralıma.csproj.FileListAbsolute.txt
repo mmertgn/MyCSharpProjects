@@ -1,0 +1,9 @@
+C:\Users\Section1\Documents\MS-YAZ16\wf-Sıralıma\wf-Sıralıma\bin\Debug\wf-Sıralıma.exe.config
+C:\Users\Section1\Documents\MS-YAZ16\wf-Sıralıma\wf-Sıralıma\bin\Debug\wf-Sıralıma.exe
+C:\Users\Section1\Documents\MS-YAZ16\wf-Sıralıma\wf-Sıralıma\bin\Debug\wf-Sıralıma.pdb
+C:\Users\Section1\Documents\MS-YAZ16\wf-Sıralıma\wf-Sıralıma\obj\Debug\wf_Sıralıma.Form1.resources
+C:\Users\Section1\Documents\MS-YAZ16\wf-Sıralıma\wf-Sıralıma\obj\Debug\wf_Sıralıma.Properties.Resources.resources
+C:\Users\Section1\Documents\MS-YAZ16\wf-Sıralıma\wf-Sıralıma\obj\Debug\wf-Sıralıma.csproj.GenerateResource.Cache
+C:\Users\Section1\Documents\MS-YAZ16\wf-Sıralıma\wf-Sıralıma\obj\Debug\wf-Sıralıma.exe
+C:\Users\Section1\Documents\MS-YAZ16\wf-Sıralıma\wf-Sıralıma\obj\Debug\wf-Sıralıma.pdb
+C:\Users\Section1\Documents\MS-YAZ16\wf-Sıralıma\wf-Sıralıma\obj\Debug\wf-Sıralıma.csprojResolveAssemblyReference.cache

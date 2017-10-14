@@ -1,0 +1,3 @@
+StreamWriter kullanımı
+Kayıt ekleme için Append true olmalı
+Böylece her yeni satır dosyanın sonuna eklenecektir.

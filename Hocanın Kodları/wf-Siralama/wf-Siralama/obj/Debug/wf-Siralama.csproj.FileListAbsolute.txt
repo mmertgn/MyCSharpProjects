@@ -1,0 +1,9 @@
+C:\Users\Section1\Documents\MS-YAZ16\wf-Siralama\wf-Siralama\bin\Debug\wf-Siralama.exe.config
+C:\Users\Section1\Documents\MS-YAZ16\wf-Siralama\wf-Siralama\bin\Debug\wf-Siralama.exe
+C:\Users\Section1\Documents\MS-YAZ16\wf-Siralama\wf-Siralama\bin\Debug\wf-Siralama.pdb
+C:\Users\Section1\Documents\MS-YAZ16\wf-Siralama\wf-Siralama\obj\Debug\wf_Siralama.Form1.resources
+C:\Users\Section1\Documents\MS-YAZ16\wf-Siralama\wf-Siralama\obj\Debug\wf_Siralama.Properties.Resources.resources
+C:\Users\Section1\Documents\MS-YAZ16\wf-Siralama\wf-Siralama\obj\Debug\wf-Siralama.csproj.GenerateResource.Cache
+C:\Users\Section1\Documents\MS-YAZ16\wf-Siralama\wf-Siralama\obj\Debug\wf-Siralama.exe
+C:\Users\Section1\Documents\MS-YAZ16\wf-Siralama\wf-Siralama\obj\Debug\wf-Siralama.pdb
+C:\Users\Section1\Documents\MS-YAZ16\wf-Siralama\wf-Siralama\obj\Debug\wf-Siralama.csprojResolveAssemblyReference.cache

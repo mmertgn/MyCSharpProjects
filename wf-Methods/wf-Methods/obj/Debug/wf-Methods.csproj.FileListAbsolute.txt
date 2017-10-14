@@ -1,0 +1,12 @@
+C:\Users\Section1\Documents\MS-YAZ16\wf-Methods\wf-Methods\bin\Debug\wf-Methods.exe.config
+C:\Users\Section1\Documents\MS-YAZ16\wf-Methods\wf-Methods\bin\Debug\wf-Methods.exe
+C:\Users\Section1\Documents\MS-YAZ16\wf-Methods\wf-Methods\bin\Debug\wf-Methods.pdb
+C:\Users\Section1\Documents\MS-YAZ16\wf-Methods\wf-Methods\obj\Debug\wf-Methods.csprojResolveAssemblyReference.cache
+C:\Users\Section1\Documents\MS-YAZ16\wf-Methods\wf-Methods\obj\Debug\wf_Methods.Form1.resources
+C:\Users\Section1\Documents\MS-YAZ16\wf-Methods\wf-Methods\obj\Debug\wf_Methods.Properties.Resources.resources
+C:\Users\Section1\Documents\MS-YAZ16\wf-Methods\wf-Methods\obj\Debug\wf-Methods.csproj.GenerateResource.Cache
+C:\Users\Section1\Documents\MS-YAZ16\wf-Methods\wf-Methods\obj\Debug\wf-Methods.exe
+C:\Users\Section1\Documents\MS-YAZ16\wf-Methods\wf-Methods\obj\Debug\wf-Methods.pdb
+C:\Users\Section1\Documents\MS-YAZ16\wf-Methods\wf-Methods\obj\Debug\wf_Methods.Form2.resources
+C:\Users\Section1\Documents\MS-YAZ16\wf-Methods\wf-Methods\obj\Debug\wf_Methods.Form3.resources
+C:\Users\Section1\Documents\MS-YAZ16\wf-Methods\wf-Methods\obj\Debug\wf_Methods.Form4.resources

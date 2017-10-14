@@ -1,0 +1,6 @@
+C:\Users\Section1\Documents\MS-YAZ16\cnsl-IcIceDonguler\cnsl-IcIceDonguler\bin\Debug\cnsl-IcIceDonguler.exe.config
+C:\Users\Section1\Documents\MS-YAZ16\cnsl-IcIceDonguler\cnsl-IcIceDonguler\bin\Debug\cnsl-IcIceDonguler.exe
+C:\Users\Section1\Documents\MS-YAZ16\cnsl-IcIceDonguler\cnsl-IcIceDonguler\bin\Debug\cnsl-IcIceDonguler.pdb
+C:\Users\Section1\Documents\MS-YAZ16\cnsl-IcIceDonguler\cnsl-IcIceDonguler\obj\Debug\cnsl-IcIceDonguler.csprojResolveAssemblyReference.cache
+C:\Users\Section1\Documents\MS-YAZ16\cnsl-IcIceDonguler\cnsl-IcIceDonguler\obj\Debug\cnsl-IcIceDonguler.exe
+C:\Users\Section1\Documents\MS-YAZ16\cnsl-IcIceDonguler\cnsl-IcIceDonguler\obj\Debug\cnsl-IcIceDonguler.pdb

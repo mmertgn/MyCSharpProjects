@@ -1,0 +1,10 @@
+C:\Users\Section1\Documents\MS-YAZ16\wf-Arrays\wf-Arrays\bin\Debug\wf-Arrays.exe.config
+C:\Users\Section1\Documents\MS-YAZ16\wf-Arrays\wf-Arrays\bin\Debug\wf-Arrays.exe
+C:\Users\Section1\Documents\MS-YAZ16\wf-Arrays\wf-Arrays\bin\Debug\wf-Arrays.pdb
+C:\Users\Section1\Documents\MS-YAZ16\wf-Arrays\wf-Arrays\obj\Debug\wf-Arrays.csprojResolveAssemblyReference.cache
+C:\Users\Section1\Documents\MS-YAZ16\wf-Arrays\wf-Arrays\obj\Debug\wf_Arrays.Form1.resources
+C:\Users\Section1\Documents\MS-YAZ16\wf-Arrays\wf-Arrays\obj\Debug\wf_Arrays.Properties.Resources.resources
+C:\Users\Section1\Documents\MS-YAZ16\wf-Arrays\wf-Arrays\obj\Debug\wf-Arrays.csproj.GenerateResource.Cache
+C:\Users\Section1\Documents\MS-YAZ16\wf-Arrays\wf-Arrays\obj\Debug\wf-Arrays.exe
+C:\Users\Section1\Documents\MS-YAZ16\wf-Arrays\wf-Arrays\obj\Debug\wf-Arrays.pdb
+C:\Users\Section1\Documents\MS-YAZ16\wf-Arrays\wf-Arrays\obj\Debug\wf_Arrays.Form2.resources

@@ -1,0 +1,5 @@
+C:\Users\Section1\Documents\MS-YAZ16\cnsl-Toplama\cnsl-Toplama\bin\Debug\cnsl-Toplama.exe.config
+C:\Users\Section1\Documents\MS-YAZ16\cnsl-Toplama\cnsl-Toplama\bin\Debug\cnsl-Toplama.exe
+C:\Users\Section1\Documents\MS-YAZ16\cnsl-Toplama\cnsl-Toplama\bin\Debug\cnsl-Toplama.pdb
+C:\Users\Section1\Documents\MS-YAZ16\cnsl-Toplama\cnsl-Toplama\obj\Debug\cnsl-Toplama.exe
+C:\Users\Section1\Documents\MS-YAZ16\cnsl-Toplama\cnsl-Toplama\obj\Debug\cnsl-Toplama.pdb

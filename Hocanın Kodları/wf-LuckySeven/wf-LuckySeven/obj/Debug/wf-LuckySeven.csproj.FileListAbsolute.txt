@@ -1,0 +1,9 @@
+C:\Users\Section1\Documents\MS-YAZ16\wf-LuckySeven\wf-LuckySeven\bin\Debug\wf-LuckySeven.exe.config
+C:\Users\Section1\Documents\MS-YAZ16\wf-LuckySeven\wf-LuckySeven\bin\Debug\wf-LuckySeven.exe
+C:\Users\Section1\Documents\MS-YAZ16\wf-LuckySeven\wf-LuckySeven\bin\Debug\wf-LuckySeven.pdb
+C:\Users\Section1\Documents\MS-YAZ16\wf-LuckySeven\wf-LuckySeven\obj\Debug\wf-LuckySeven.csprojResolveAssemblyReference.cache
+C:\Users\Section1\Documents\MS-YAZ16\wf-LuckySeven\wf-LuckySeven\obj\Debug\wf_LuckySeven.Form1.resources
+C:\Users\Section1\Documents\MS-YAZ16\wf-LuckySeven\wf-LuckySeven\obj\Debug\wf_LuckySeven.Properties.Resources.resources
+C:\Users\Section1\Documents\MS-YAZ16\wf-LuckySeven\wf-LuckySeven\obj\Debug\wf-LuckySeven.csproj.GenerateResource.Cache
+C:\Users\Section1\Documents\MS-YAZ16\wf-LuckySeven\wf-LuckySeven\obj\Debug\wf-LuckySeven.exe
+C:\Users\Section1\Documents\MS-YAZ16\wf-LuckySeven\wf-LuckySeven\obj\Debug\wf-LuckySeven.pdb

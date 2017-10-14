@@ -1,0 +1,6 @@
+C:\Users\Section1\Documents\MS-YAZ16\cnsl-Mod\cnsl-Mod\bin\Debug\cnsl-Mod.exe.config
+C:\Users\Section1\Documents\MS-YAZ16\cnsl-Mod\cnsl-Mod\bin\Debug\cnsl-Mod.exe
+C:\Users\Section1\Documents\MS-YAZ16\cnsl-Mod\cnsl-Mod\bin\Debug\cnsl-Mod.pdb
+C:\Users\Section1\Documents\MS-YAZ16\cnsl-Mod\cnsl-Mod\obj\Debug\cnsl-Mod.csprojResolveAssemblyReference.cache
+C:\Users\Section1\Documents\MS-YAZ16\cnsl-Mod\cnsl-Mod\obj\Debug\cnsl-Mod.exe
+C:\Users\Section1\Documents\MS-YAZ16\cnsl-Mod\cnsl-Mod\obj\Debug\cnsl-Mod.pdb

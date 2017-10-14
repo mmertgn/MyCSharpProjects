@@ -1,0 +1,9 @@
+C:\Users\Section1\Documents\MS-YAZ16\wf-PiSayisi\wf-PiSayisi\bin\Debug\wf-PiSayisi.exe.config
+C:\Users\Section1\Documents\MS-YAZ16\wf-PiSayisi\wf-PiSayisi\bin\Debug\wf-PiSayisi.exe
+C:\Users\Section1\Documents\MS-YAZ16\wf-PiSayisi\wf-PiSayisi\bin\Debug\wf-PiSayisi.pdb
+C:\Users\Section1\Documents\MS-YAZ16\wf-PiSayisi\wf-PiSayisi\obj\Debug\wf-PiSayisi.csprojResolveAssemblyReference.cache
+C:\Users\Section1\Documents\MS-YAZ16\wf-PiSayisi\wf-PiSayisi\obj\Debug\wf_PiSayisi.Form1.resources
+C:\Users\Section1\Documents\MS-YAZ16\wf-PiSayisi\wf-PiSayisi\obj\Debug\wf_PiSayisi.Properties.Resources.resources
+C:\Users\Section1\Documents\MS-YAZ16\wf-PiSayisi\wf-PiSayisi\obj\Debug\wf-PiSayisi.csproj.GenerateResource.Cache
+C:\Users\Section1\Documents\MS-YAZ16\wf-PiSayisi\wf-PiSayisi\obj\Debug\wf-PiSayisi.exe
+C:\Users\Section1\Documents\MS-YAZ16\wf-PiSayisi\wf-PiSayisi\obj\Debug\wf-PiSayisi.pdb

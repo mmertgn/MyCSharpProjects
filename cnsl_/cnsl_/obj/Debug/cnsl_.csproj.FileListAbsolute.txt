@@ -1,0 +1,2 @@
+C:\Users\Section1\Documents\MS-YAZ16\cnsl_\cnsl_\bin\Debug\cnsl_.exe.config
+C:\Users\Section1\Documents\MS-YAZ16\cnsl_\cnsl_\obj\Debug\cnsl_.csprojResolveAssemblyReference.cache

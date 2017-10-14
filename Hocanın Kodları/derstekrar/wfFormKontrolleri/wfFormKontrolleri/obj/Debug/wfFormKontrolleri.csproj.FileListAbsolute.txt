@@ -1,0 +1,10 @@
+C:\Users\Section1\Documents\MS-YAZ16\derstekrar\wfFormKontrolleri\wfFormKontrolleri\bin\Debug\wfFormKontrolleri.exe.config
+C:\Users\Section1\Documents\MS-YAZ16\derstekrar\wfFormKontrolleri\wfFormKontrolleri\bin\Debug\wfFormKontrolleri.exe
+C:\Users\Section1\Documents\MS-YAZ16\derstekrar\wfFormKontrolleri\wfFormKontrolleri\bin\Debug\wfFormKontrolleri.pdb
+C:\Users\Section1\Documents\MS-YAZ16\derstekrar\wfFormKontrolleri\wfFormKontrolleri\obj\Debug\wfFormKontrolleri.csprojResolveAssemblyReference.cache
+C:\Users\Section1\Documents\MS-YAZ16\derstekrar\wfFormKontrolleri\wfFormKontrolleri\obj\Debug\wfFormKontrolleri.Form1.resources
+C:\Users\Section1\Documents\MS-YAZ16\derstekrar\wfFormKontrolleri\wfFormKontrolleri\obj\Debug\wfFormKontrolleri.Properties.Resources.resources
+C:\Users\Section1\Documents\MS-YAZ16\derstekrar\wfFormKontrolleri\wfFormKontrolleri\obj\Debug\wfFormKontrolleri.csproj.GenerateResource.Cache
+C:\Users\Section1\Documents\MS-YAZ16\derstekrar\wfFormKontrolleri\wfFormKontrolleri\obj\Debug\wfFormKontrolleri.exe
+C:\Users\Section1\Documents\MS-YAZ16\derstekrar\wfFormKontrolleri\wfFormKontrolleri\obj\Debug\wfFormKontrolleri.pdb
+C:\Users\Section1\Documents\MS-YAZ16\derstekrar\wfFormKontrolleri\wfFormKontrolleri\obj\Debug\wfFormKontrolleri.Form2.resources

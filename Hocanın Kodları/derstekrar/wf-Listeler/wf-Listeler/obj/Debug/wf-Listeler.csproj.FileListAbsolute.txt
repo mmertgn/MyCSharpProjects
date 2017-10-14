@@ -1,0 +1,9 @@
+C:\Users\Section1\Documents\MS-YAZ16\derstekrar\wf-Listeler\wf-Listeler\bin\Debug\wf-Listeler.exe.config
+C:\Users\Section1\Documents\MS-YAZ16\derstekrar\wf-Listeler\wf-Listeler\bin\Debug\wf-Listeler.exe
+C:\Users\Section1\Documents\MS-YAZ16\derstekrar\wf-Listeler\wf-Listeler\bin\Debug\wf-Listeler.pdb
+C:\Users\Section1\Documents\MS-YAZ16\derstekrar\wf-Listeler\wf-Listeler\obj\Debug\wf-Listeler.csprojResolveAssemblyReference.cache
+C:\Users\Section1\Documents\MS-YAZ16\derstekrar\wf-Listeler\wf-Listeler\obj\Debug\wf_Listeler.Form1.resources
+C:\Users\Section1\Documents\MS-YAZ16\derstekrar\wf-Listeler\wf-Listeler\obj\Debug\wf_Listeler.Properties.Resources.resources
+C:\Users\Section1\Documents\MS-YAZ16\derstekrar\wf-Listeler\wf-Listeler\obj\Debug\wf-Listeler.csproj.GenerateResource.Cache
+C:\Users\Section1\Documents\MS-YAZ16\derstekrar\wf-Listeler\wf-Listeler\obj\Debug\wf-Listeler.exe
+C:\Users\Section1\Documents\MS-YAZ16\derstekrar\wf-Listeler\wf-Listeler\obj\Debug\wf-Listeler.pdb

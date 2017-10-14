@@ -1,0 +1,12 @@
+C:\Users\Section1\Documents\MS-YAZ16\wf-Sozluk\wf-Sozluk\bin\Debug\wf-Sozluk.exe.config
+C:\Users\Section1\Documents\MS-YAZ16\wf-Sozluk\wf-Sozluk\bin\Debug\wf-Sozluk.exe
+C:\Users\Section1\Documents\MS-YAZ16\wf-Sozluk\wf-Sozluk\bin\Debug\wf-Sozluk.pdb
+C:\Users\Section1\Documents\MS-YAZ16\wf-Sozluk\wf-Sozluk\obj\Debug\wf_Sozluk.Form1.resources
+C:\Users\Section1\Documents\MS-YAZ16\wf-Sozluk\wf-Sozluk\obj\Debug\wf_Sozluk.Properties.Resources.resources
+C:\Users\Section1\Documents\MS-YAZ16\wf-Sozluk\wf-Sozluk\obj\Debug\wf-Sozluk.csproj.GenerateResource.Cache
+C:\Users\Section1\Documents\MS-YAZ16\wf-Sozluk\wf-Sozluk\obj\Debug\wf-Sozluk.exe
+C:\Users\Section1\Documents\MS-YAZ16\wf-Sozluk\wf-Sozluk\obj\Debug\wf-Sozluk.pdb
+C:\Users\Section1\Documents\MS-YAZ16\wf-Sozluk\wf-Sozluk\obj\Debug\wf-Sozluk.csprojResolveAssemblyReference.cache
+E:\wf-Sozluk\wf-Sozluk\bin\Debug\wf-Sozluk.exe.config
+E:\wf-Sozluk\wf-Sozluk\obj\Debug\wf-Sozluk.exe
+E:\wf-Sozluk\wf-Sozluk\obj\Debug\wf-Sozluk.pdb

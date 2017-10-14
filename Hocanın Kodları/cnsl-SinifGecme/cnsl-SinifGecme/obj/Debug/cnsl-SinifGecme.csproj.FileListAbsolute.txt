@@ -1,0 +1,6 @@
+C:\Users\Section1\Documents\MS-YAZ16\cnsl-SinifGecme\cnsl-SinifGecme\bin\Debug\cnsl-SinifGecme.exe.config
+C:\Users\Section1\Documents\MS-YAZ16\cnsl-SinifGecme\cnsl-SinifGecme\bin\Debug\cnsl-SinifGecme.exe
+C:\Users\Section1\Documents\MS-YAZ16\cnsl-SinifGecme\cnsl-SinifGecme\bin\Debug\cnsl-SinifGecme.pdb
+C:\Users\Section1\Documents\MS-YAZ16\cnsl-SinifGecme\cnsl-SinifGecme\obj\Debug\cnsl-SinifGecme.csprojResolveAssemblyReference.cache
+C:\Users\Section1\Documents\MS-YAZ16\cnsl-SinifGecme\cnsl-SinifGecme\obj\Debug\cnsl-SinifGecme.exe
+C:\Users\Section1\Documents\MS-YAZ16\cnsl-SinifGecme\cnsl-SinifGecme\obj\Debug\cnsl-SinifGecme.pdb

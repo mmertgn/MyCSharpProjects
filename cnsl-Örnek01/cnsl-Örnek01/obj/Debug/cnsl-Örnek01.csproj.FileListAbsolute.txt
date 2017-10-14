@@ -1,0 +1,6 @@
+C:\Users\Section1\Documents\MS-YAZ16\cnsl-Örnek01\cnsl-Örnek01\bin\Debug\cnsl-Örnek01.exe.config
+C:\Users\Section1\Documents\MS-YAZ16\cnsl-Örnek01\cnsl-Örnek01\bin\Debug\cnsl-Örnek01.exe
+C:\Users\Section1\Documents\MS-YAZ16\cnsl-Örnek01\cnsl-Örnek01\bin\Debug\cnsl-Örnek01.pdb
+C:\Users\Section1\Documents\MS-YAZ16\cnsl-Örnek01\cnsl-Örnek01\obj\Debug\cnsl-Örnek01.csprojResolveAssemblyReference.cache
+C:\Users\Section1\Documents\MS-YAZ16\cnsl-Örnek01\cnsl-Örnek01\obj\Debug\cnsl-Örnek01.exe
+C:\Users\Section1\Documents\MS-YAZ16\cnsl-Örnek01\cnsl-Örnek01\obj\Debug\cnsl-Örnek01.pdb

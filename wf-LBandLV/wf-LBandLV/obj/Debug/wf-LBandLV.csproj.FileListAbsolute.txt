@@ -1,0 +1,9 @@
+c:\users\mert\documents\visual studio 2015\Projects\wf-LBandLV\wf-LBandLV\bin\Debug\wf-LBandLV.exe.config
+c:\users\mert\documents\visual studio 2015\Projects\wf-LBandLV\wf-LBandLV\bin\Debug\wf-LBandLV.exe
+c:\users\mert\documents\visual studio 2015\Projects\wf-LBandLV\wf-LBandLV\bin\Debug\wf-LBandLV.pdb
+c:\users\mert\documents\visual studio 2015\Projects\wf-LBandLV\wf-LBandLV\obj\Debug\wf-LBandLV.csprojResolveAssemblyReference.cache
+c:\users\mert\documents\visual studio 2015\Projects\wf-LBandLV\wf-LBandLV\obj\Debug\wf_LBandLV.Form1.resources
+c:\users\mert\documents\visual studio 2015\Projects\wf-LBandLV\wf-LBandLV\obj\Debug\wf_LBandLV.Properties.Resources.resources
+c:\users\mert\documents\visual studio 2015\Projects\wf-LBandLV\wf-LBandLV\obj\Debug\wf-LBandLV.csproj.GenerateResource.Cache
+c:\users\mert\documents\visual studio 2015\Projects\wf-LBandLV\wf-LBandLV\obj\Debug\wf-LBandLV.exe
+c:\users\mert\documents\visual studio 2015\Projects\wf-LBandLV\wf-LBandLV\obj\Debug\wf-LBandLV.pdb

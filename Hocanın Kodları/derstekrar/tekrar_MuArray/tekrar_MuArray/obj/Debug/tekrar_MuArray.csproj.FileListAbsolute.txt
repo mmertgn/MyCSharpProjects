@@ -1,0 +1,9 @@
+C:\Users\Section1\Documents\MS-YAZ16\derstekrar\tekrar_MuArray\tekrar_MuArray\bin\Debug\tekrar_MuArray.exe.config
+C:\Users\Section1\Documents\MS-YAZ16\derstekrar\tekrar_MuArray\tekrar_MuArray\bin\Debug\tekrar_MuArray.exe
+C:\Users\Section1\Documents\MS-YAZ16\derstekrar\tekrar_MuArray\tekrar_MuArray\bin\Debug\tekrar_MuArray.pdb
+C:\Users\Section1\Documents\MS-YAZ16\derstekrar\tekrar_MuArray\tekrar_MuArray\obj\Debug\tekrar_MuArray.csprojResolveAssemblyReference.cache
+C:\Users\Section1\Documents\MS-YAZ16\derstekrar\tekrar_MuArray\tekrar_MuArray\obj\Debug\tekrar_MuArray.Form1.resources
+C:\Users\Section1\Documents\MS-YAZ16\derstekrar\tekrar_MuArray\tekrar_MuArray\obj\Debug\tekrar_MuArray.Properties.Resources.resources
+C:\Users\Section1\Documents\MS-YAZ16\derstekrar\tekrar_MuArray\tekrar_MuArray\obj\Debug\tekrar_MuArray.csproj.GenerateResource.Cache
+C:\Users\Section1\Documents\MS-YAZ16\derstekrar\tekrar_MuArray\tekrar_MuArray\obj\Debug\tekrar_MuArray.exe
+C:\Users\Section1\Documents\MS-YAZ16\derstekrar\tekrar_MuArray\tekrar_MuArray\obj\Debug\tekrar_MuArray.pdb

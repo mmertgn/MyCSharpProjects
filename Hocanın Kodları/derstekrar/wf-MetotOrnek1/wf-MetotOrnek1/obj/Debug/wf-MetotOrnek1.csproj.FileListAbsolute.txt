@@ -1,0 +1,36 @@
+c:\users\user\documents\visual studio 2015\Projects\wf-MetotOrnek1\wf-MetotOrnek1\bin\Debug\wf-MetotOrnek1.exe.config
+c:\users\user\documents\visual studio 2015\Projects\wf-MetotOrnek1\wf-MetotOrnek1\bin\Debug\wf-MetotOrnek1.exe
+c:\users\user\documents\visual studio 2015\Projects\wf-MetotOrnek1\wf-MetotOrnek1\bin\Debug\wf-MetotOrnek1.pdb
+c:\users\user\documents\visual studio 2015\Projects\wf-MetotOrnek1\wf-MetotOrnek1\obj\Debug\wf-MetotOrnek1.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\wf-MetotOrnek1\wf-MetotOrnek1\obj\Debug\wf_MetotOrnek1.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\wf-MetotOrnek1\wf-MetotOrnek1\obj\Debug\wf_MetotOrnek1.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\wf-MetotOrnek1\wf-MetotOrnek1\obj\Debug\wf-MetotOrnek1.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\wf-MetotOrnek1\wf-MetotOrnek1\obj\Debug\wf-MetotOrnek1.exe
+c:\users\user\documents\visual studio 2015\Projects\wf-MetotOrnek1\wf-MetotOrnek1\obj\Debug\wf-MetotOrnek1.pdb
+C:\Users\Section1\Desktop\wf-MetotOrnek1\wf-MetotOrnek1\bin\Debug\wf-MetotOrnek1.exe.config
+C:\Users\Section1\Desktop\wf-MetotOrnek1\wf-MetotOrnek1\obj\Debug\wf-MetotOrnek1.exe
+C:\Users\Section1\Desktop\wf-MetotOrnek1\wf-MetotOrnek1\obj\Debug\wf-MetotOrnek1.pdb
+C:\Users\Section1\Desktop\wf-MetotOrnek1\wf-MetotOrnek1\bin\Debug\wf-MetotOrnek1.exe
+C:\Users\Section1\Desktop\wf-MetotOrnek1\wf-MetotOrnek1\bin\Debug\wf-MetotOrnek1.pdb
+C:\Users\Section1\Desktop\wf-MetotOrnek1\wf-MetotOrnek1\obj\Debug\wf-MetotOrnek1.csprojResolveAssemblyReference.cache
+C:\Users\Section1\Desktop\wf-MetotOrnek1\wf-MetotOrnek1\obj\Debug\wf_MetotOrnek1.Form1.resources
+C:\Users\Section1\Desktop\wf-MetotOrnek1\wf-MetotOrnek1\obj\Debug\wf_MetotOrnek1.Properties.Resources.resources
+C:\Users\Section1\Desktop\wf-MetotOrnek1\wf-MetotOrnek1\obj\Debug\wf-MetotOrnek1.csproj.GenerateResource.Cache
+C:\Users\Section1\Desktop\wf-MetotOrnek\wf-MetotOrnek1\bin\Debug\wf-MetotOrnek1.exe.config
+C:\Users\Section1\Desktop\wf-MetotOrnek\wf-MetotOrnek1\obj\Debug\wf-MetotOrnek1.exe
+C:\Users\Section1\Desktop\wf-MetotOrnek\wf-MetotOrnek1\obj\Debug\wf-MetotOrnek1.pdb
+C:\Users\Section1\Desktop\wf-MetotOrnek\wf-MetotOrnek1\bin\Debug\wf-MetotOrnek1.exe
+C:\Users\Section1\Desktop\wf-MetotOrnek\wf-MetotOrnek1\bin\Debug\wf-MetotOrnek1.pdb
+C:\Users\Section1\Desktop\wf-MetotOrnek\wf-MetotOrnek1\obj\Debug\wf-MetotOrnek1.csprojResolveAssemblyReference.cache
+C:\Users\Section1\Desktop\wf-MetotOrnek\wf-MetotOrnek1\obj\Debug\wf_MetotOrnek1.Form1.resources
+C:\Users\Section1\Desktop\wf-MetotOrnek\wf-MetotOrnek1\obj\Debug\wf_MetotOrnek1.Properties.Resources.resources
+C:\Users\Section1\Desktop\wf-MetotOrnek\wf-MetotOrnek1\obj\Debug\wf-MetotOrnek1.csproj.GenerateResource.Cache
+C:\Users\Section1\Desktop\Sunum\wf-MetotOrnek1\wf-MetotOrnek1\bin\Debug\wf-MetotOrnek1.exe.config
+C:\Users\Section1\Desktop\Sunum\wf-MetotOrnek1\wf-MetotOrnek1\obj\Debug\wf-MetotOrnek1.exe
+C:\Users\Section1\Desktop\Sunum\wf-MetotOrnek1\wf-MetotOrnek1\obj\Debug\wf-MetotOrnek1.pdb
+C:\Users\Section1\Desktop\Sunum\wf-MetotOrnek1\wf-MetotOrnek1\bin\Debug\wf-MetotOrnek1.exe
+C:\Users\Section1\Desktop\Sunum\wf-MetotOrnek1\wf-MetotOrnek1\bin\Debug\wf-MetotOrnek1.pdb
+C:\Users\Section1\Desktop\Sunum\wf-MetotOrnek1\wf-MetotOrnek1\obj\Debug\wf-MetotOrnek1.csprojResolveAssemblyReference.cache
+C:\Users\Section1\Desktop\Sunum\wf-MetotOrnek1\wf-MetotOrnek1\obj\Debug\wf_MetotOrnek1.Form1.resources
+C:\Users\Section1\Desktop\Sunum\wf-MetotOrnek1\wf-MetotOrnek1\obj\Debug\wf_MetotOrnek1.Properties.Resources.resources
+C:\Users\Section1\Desktop\Sunum\wf-MetotOrnek1\wf-MetotOrnek1\obj\Debug\wf-MetotOrnek1.csproj.GenerateResource.Cache

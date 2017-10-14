@@ -1,0 +1,11 @@
+C:\Users\Section1\Documents\MS-YAZ16\wf-Pakbank\wf-Pakbank\bin\Debug\wf-Pakbank.exe.config
+C:\Users\Section1\Documents\MS-YAZ16\wf-Pakbank\wf-Pakbank\bin\Debug\wf-Pakbank.exe
+C:\Users\Section1\Documents\MS-YAZ16\wf-Pakbank\wf-Pakbank\bin\Debug\wf-Pakbank.pdb
+C:\Users\Section1\Documents\MS-YAZ16\wf-Pakbank\wf-Pakbank\obj\Debug\wf-Pakbank.csprojResolveAssemblyReference.cache
+C:\Users\Section1\Documents\MS-YAZ16\wf-Pakbank\wf-Pakbank\obj\Debug\wf_Pakbank.frmAnaSayfa.resources
+C:\Users\Section1\Documents\MS-YAZ16\wf-Pakbank\wf-Pakbank\obj\Debug\wf_Pakbank.Properties.Resources.resources
+C:\Users\Section1\Documents\MS-YAZ16\wf-Pakbank\wf-Pakbank\obj\Debug\wf-Pakbank.csproj.GenerateResource.Cache
+C:\Users\Section1\Documents\MS-YAZ16\wf-Pakbank\wf-Pakbank\obj\Debug\wf-Pakbank.exe
+C:\Users\Section1\Documents\MS-YAZ16\wf-Pakbank\wf-Pakbank\obj\Debug\wf-Pakbank.pdb
+C:\Users\Section1\Documents\MS-YAZ16\wf-Pakbank\wf-Pakbank\obj\Debug\wf_Pakbank.frmHesapAcilisi.resources
+C:\Users\Section1\Documents\MS-YAZ16\wf-Pakbank\wf-Pakbank\obj\Debug\wf_Pakbank.frmHesapDokumu.resources

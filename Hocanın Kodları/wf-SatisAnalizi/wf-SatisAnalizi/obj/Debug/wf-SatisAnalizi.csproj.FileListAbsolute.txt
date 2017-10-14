@@ -1,0 +1,9 @@
+C:\Users\Section1\Documents\MS-YAZ16\wf-SatisAnalizi\wf-SatisAnalizi\bin\Debug\wf-SatisAnalizi.exe.config
+C:\Users\Section1\Documents\MS-YAZ16\wf-SatisAnalizi\wf-SatisAnalizi\bin\Debug\wf-SatisAnalizi.exe
+C:\Users\Section1\Documents\MS-YAZ16\wf-SatisAnalizi\wf-SatisAnalizi\bin\Debug\wf-SatisAnalizi.pdb
+C:\Users\Section1\Documents\MS-YAZ16\wf-SatisAnalizi\wf-SatisAnalizi\obj\Debug\wf-SatisAnalizi.csprojResolveAssemblyReference.cache
+C:\Users\Section1\Documents\MS-YAZ16\wf-SatisAnalizi\wf-SatisAnalizi\obj\Debug\wf_SatisAnalizi.Form1.resources
+C:\Users\Section1\Documents\MS-YAZ16\wf-SatisAnalizi\wf-SatisAnalizi\obj\Debug\wf_SatisAnalizi.Properties.Resources.resources
+C:\Users\Section1\Documents\MS-YAZ16\wf-SatisAnalizi\wf-SatisAnalizi\obj\Debug\wf-SatisAnalizi.csproj.GenerateResource.Cache
+C:\Users\Section1\Documents\MS-YAZ16\wf-SatisAnalizi\wf-SatisAnalizi\obj\Debug\wf-SatisAnalizi.exe
+C:\Users\Section1\Documents\MS-YAZ16\wf-SatisAnalizi\wf-SatisAnalizi\obj\Debug\wf-SatisAnalizi.pdb

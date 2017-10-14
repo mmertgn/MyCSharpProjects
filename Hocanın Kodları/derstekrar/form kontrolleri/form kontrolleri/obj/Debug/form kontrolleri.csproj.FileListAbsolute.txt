@@ -1,0 +1,44 @@
+C:\Users\AYŞEGÜL\Documents\kurstayapılanların_tekrarı\form kontrolleri\form kontrolleri\bin\Debug\form kontrolleri.exe.config
+C:\Users\AYŞEGÜL\Documents\kurstayapılanların_tekrarı\form kontrolleri\form kontrolleri\bin\Debug\form kontrolleri.exe
+C:\Users\AYŞEGÜL\Documents\kurstayapılanların_tekrarı\form kontrolleri\form kontrolleri\bin\Debug\form kontrolleri.pdb
+C:\Users\AYŞEGÜL\Documents\kurstayapılanların_tekrarı\form kontrolleri\form kontrolleri\obj\Debug\form_kontrolleri.Form1.resources
+C:\Users\AYŞEGÜL\Documents\kurstayapılanların_tekrarı\form kontrolleri\form kontrolleri\obj\Debug\form_kontrolleri.Properties.Resources.resources
+C:\Users\AYŞEGÜL\Documents\kurstayapılanların_tekrarı\form kontrolleri\form kontrolleri\obj\Debug\form kontrolleri.csproj.GenerateResource.Cache
+C:\Users\AYŞEGÜL\Documents\kurstayapılanların_tekrarı\form kontrolleri\form kontrolleri\obj\Debug\form kontrolleri.exe
+C:\Users\AYŞEGÜL\Documents\kurstayapılanların_tekrarı\form kontrolleri\form kontrolleri\obj\Debug\form kontrolleri.pdb
+C:\Users\AYŞEGÜL\Documents\kurstayapılanların_tekrarı\form kontrolleri\form kontrolleri\obj\Debug\form kontrolleri.csprojResolveAssemblyReference.cache
+C:\Users\AYŞEGÜL\Documents\kurstayapılanların_tekrarı\form kontrolleri\form kontrolleri\obj\Debug\form_kontrolleri.Form2.resources
+C:\Users\AYŞEGÜL\Documents\kurstayapılanların_tekrarı\form kontrolleri\form kontrolleri\obj\Debug\form_kontrolleri.Form3.resources
+F:\form kontrolleri\form kontrolleri\bin\Debug\form kontrolleri.exe.config
+F:\form kontrolleri\form kontrolleri\obj\Debug\form kontrolleri.exe
+F:\form kontrolleri\form kontrolleri\obj\Debug\form kontrolleri.pdb
+F:\form kontrolleri\form kontrolleri\bin\Debug\form kontrolleri.exe
+F:\form kontrolleri\form kontrolleri\bin\Debug\form kontrolleri.pdb
+F:\form kontrolleri\form kontrolleri\obj\Debug\form kontrolleri.csprojResolveAssemblyReference.cache
+F:\form kontrolleri\form kontrolleri\obj\Debug\form_kontrolleri.Form1.resources
+F:\form kontrolleri\form kontrolleri\obj\Debug\form_kontrolleri.Form2.resources
+F:\form kontrolleri\form kontrolleri\obj\Debug\form_kontrolleri.Form3.resources
+F:\form kontrolleri\form kontrolleri\obj\Debug\form_kontrolleri.Properties.Resources.resources
+F:\form kontrolleri\form kontrolleri\obj\Debug\form kontrolleri.csproj.GenerateResource.Cache
+E:\form kontrolleri\form kontrolleri\bin\Debug\form kontrolleri.exe.config
+E:\form kontrolleri\form kontrolleri\obj\Debug\form kontrolleri.exe
+E:\form kontrolleri\form kontrolleri\obj\Debug\form kontrolleri.pdb
+E:\form kontrolleri\form kontrolleri\bin\Debug\form kontrolleri.exe
+E:\form kontrolleri\form kontrolleri\bin\Debug\form kontrolleri.pdb
+E:\form kontrolleri\form kontrolleri\obj\Debug\form kontrolleri.csprojResolveAssemblyReference.cache
+E:\form kontrolleri\form kontrolleri\obj\Debug\form_kontrolleri.Form1.resources
+E:\form kontrolleri\form kontrolleri\obj\Debug\form_kontrolleri.Form2.resources
+E:\form kontrolleri\form kontrolleri\obj\Debug\form_kontrolleri.Form3.resources
+E:\form kontrolleri\form kontrolleri\obj\Debug\form_kontrolleri.Properties.Resources.resources
+E:\form kontrolleri\form kontrolleri\obj\Debug\form kontrolleri.csproj.GenerateResource.Cache
+D:\form kontrolleri\form kontrolleri\bin\Debug\form kontrolleri.exe.config
+D:\form kontrolleri\form kontrolleri\obj\Debug\form kontrolleri.exe
+D:\form kontrolleri\form kontrolleri\obj\Debug\form kontrolleri.pdb
+D:\form kontrolleri\form kontrolleri\bin\Debug\form kontrolleri.exe
+D:\form kontrolleri\form kontrolleri\bin\Debug\form kontrolleri.pdb
+D:\form kontrolleri\form kontrolleri\obj\Debug\form kontrolleri.csprojResolveAssemblyReference.cache
+D:\form kontrolleri\form kontrolleri\obj\Debug\form_kontrolleri.Form1.resources
+D:\form kontrolleri\form kontrolleri\obj\Debug\form_kontrolleri.Form2.resources
+D:\form kontrolleri\form kontrolleri\obj\Debug\form_kontrolleri.Form3.resources
+D:\form kontrolleri\form kontrolleri\obj\Debug\form_kontrolleri.Properties.Resources.resources
+D:\form kontrolleri\form kontrolleri\obj\Debug\form kontrolleri.csproj.GenerateResource.Cache

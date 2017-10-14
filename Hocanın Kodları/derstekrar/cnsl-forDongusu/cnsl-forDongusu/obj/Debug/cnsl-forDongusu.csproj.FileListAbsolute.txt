@@ -1,0 +1,12 @@
+c:\users\mert\documents\visual studio 2015\Projects\cnsl-forDongusu\cnsl-forDongusu\bin\Debug\cnsl-forDongusu.exe.config
+c:\users\mert\documents\visual studio 2015\Projects\cnsl-forDongusu\cnsl-forDongusu\bin\Debug\cnsl-forDongusu.exe
+c:\users\mert\documents\visual studio 2015\Projects\cnsl-forDongusu\cnsl-forDongusu\bin\Debug\cnsl-forDongusu.pdb
+c:\users\mert\documents\visual studio 2015\Projects\cnsl-forDongusu\cnsl-forDongusu\obj\Debug\cnsl-forDongusu.csprojResolveAssemblyReference.cache
+c:\users\mert\documents\visual studio 2015\Projects\cnsl-forDongusu\cnsl-forDongusu\obj\Debug\cnsl-forDongusu.exe
+c:\users\mert\documents\visual studio 2015\Projects\cnsl-forDongusu\cnsl-forDongusu\obj\Debug\cnsl-forDongusu.pdb
+D:\MS-YazilimUzmanligiEgitimi\DongulerSunum\cnsl-forDongusu\cnsl-forDongusu\bin\Debug\cnsl-forDongusu.exe.config
+D:\MS-YazilimUzmanligiEgitimi\DongulerSunum\cnsl-forDongusu\cnsl-forDongusu\obj\Debug\cnsl-forDongusu.exe
+D:\MS-YazilimUzmanligiEgitimi\DongulerSunum\cnsl-forDongusu\cnsl-forDongusu\obj\Debug\cnsl-forDongusu.pdb
+D:\MS-YazilimUzmanligiEgitimi\DongulerSunum\cnsl-forDongusu\cnsl-forDongusu\bin\Debug\cnsl-forDongusu.exe
+D:\MS-YazilimUzmanligiEgitimi\DongulerSunum\cnsl-forDongusu\cnsl-forDongusu\bin\Debug\cnsl-forDongusu.pdb
+D:\MS-YazilimUzmanligiEgitimi\DongulerSunum\cnsl-forDongusu\cnsl-forDongusu\obj\Debug\cnsl-forDongusu.csprojResolveAssemblyReference.cache

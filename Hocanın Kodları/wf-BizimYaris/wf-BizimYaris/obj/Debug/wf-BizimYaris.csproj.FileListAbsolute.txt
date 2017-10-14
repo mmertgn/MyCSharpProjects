@@ -1,0 +1,9 @@
+C:\Users\Section1\Documents\MS-YAZ16\wf-BizimYaris\wf-BizimYaris\bin\Debug\wf-BizimYaris.exe.config
+C:\Users\Section1\Documents\MS-YAZ16\wf-BizimYaris\wf-BizimYaris\bin\Debug\wf-BizimYaris.exe
+C:\Users\Section1\Documents\MS-YAZ16\wf-BizimYaris\wf-BizimYaris\bin\Debug\wf-BizimYaris.pdb
+C:\Users\Section1\Documents\MS-YAZ16\wf-BizimYaris\wf-BizimYaris\obj\Debug\wf-BizimYaris.csprojResolveAssemblyReference.cache
+C:\Users\Section1\Documents\MS-YAZ16\wf-BizimYaris\wf-BizimYaris\obj\Debug\wf_BizimYaris.Form1.resources
+C:\Users\Section1\Documents\MS-YAZ16\wf-BizimYaris\wf-BizimYaris\obj\Debug\wf_BizimYaris.Properties.Resources.resources
+C:\Users\Section1\Documents\MS-YAZ16\wf-BizimYaris\wf-BizimYaris\obj\Debug\wf-BizimYaris.csproj.GenerateResource.Cache
+C:\Users\Section1\Documents\MS-YAZ16\wf-BizimYaris\wf-BizimYaris\obj\Debug\wf-BizimYaris.exe
+C:\Users\Section1\Documents\MS-YAZ16\wf-BizimYaris\wf-BizimYaris\obj\Debug\wf-BizimYaris.pdb

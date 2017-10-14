@@ -1,0 +1,12 @@
+C:\Users\Section1\Documents\MS-YAZ16\wf-Enbuyuk\wf-Enbuyuk\bin\Debug\wf-Enbuyuk.exe.config
+C:\Users\Section1\Documents\MS-YAZ16\wf-Enbuyuk\wf-Enbuyuk\bin\Debug\wf-Enbuyuk.exe
+C:\Users\Section1\Documents\MS-YAZ16\wf-Enbuyuk\wf-Enbuyuk\bin\Debug\wf-Enbuyuk.pdb
+C:\Users\Section1\Documents\MS-YAZ16\wf-Enbuyuk\wf-Enbuyuk\obj\Debug\wf-Enbuyuk.csprojResolveAssemblyReference.cache
+C:\Users\Section1\Documents\MS-YAZ16\wf-Enbuyuk\wf-Enbuyuk\obj\Debug\wf_Enbuyuk.Form1.resources
+C:\Users\Section1\Documents\MS-YAZ16\wf-Enbuyuk\wf-Enbuyuk\obj\Debug\wf_Enbuyuk.Properties.Resources.resources
+C:\Users\Section1\Documents\MS-YAZ16\wf-Enbuyuk\wf-Enbuyuk\obj\Debug\wf-Enbuyuk.csproj.GenerateResource.Cache
+C:\Users\Section1\Documents\MS-YAZ16\wf-Enbuyuk\wf-Enbuyuk\obj\Debug\wf-Enbuyuk.exe
+C:\Users\Section1\Documents\MS-YAZ16\wf-Enbuyuk\wf-Enbuyuk\obj\Debug\wf-Enbuyuk.pdb
+E:\wf-Enbuyuk\wf-Enbuyuk\bin\Debug\wf-Enbuyuk.exe.config
+E:\wf-Enbuyuk\wf-Enbuyuk\obj\Debug\wf-Enbuyuk.exe
+E:\wf-Enbuyuk\wf-Enbuyuk\obj\Debug\wf-Enbuyuk.pdb

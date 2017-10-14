@@ -1,0 +1,5 @@
+C:\Users\Section1\Documents\MS-YAZ16\cnsl-SwitchCase\cnsl-SwitchCase\bin\Debug\cnsl-SwitchCase.exe.config
+C:\Users\Section1\Documents\MS-YAZ16\cnsl-SwitchCase\cnsl-SwitchCase\bin\Debug\cnsl-SwitchCase.exe
+C:\Users\Section1\Documents\MS-YAZ16\cnsl-SwitchCase\cnsl-SwitchCase\bin\Debug\cnsl-SwitchCase.pdb
+C:\Users\Section1\Documents\MS-YAZ16\cnsl-SwitchCase\cnsl-SwitchCase\obj\Debug\cnsl-SwitchCase.exe
+C:\Users\Section1\Documents\MS-YAZ16\cnsl-SwitchCase\cnsl-SwitchCase\obj\Debug\cnsl-SwitchCase.pdb

@@ -1,0 +1,6 @@
+C:\Users\Section1\Documents\MS-YAZ16\cnsl-BOMOyunu\cnsl-BOMOyunu\bin\Debug\cnsl-BOMOyunu.exe.config
+C:\Users\Section1\Documents\MS-YAZ16\cnsl-BOMOyunu\cnsl-BOMOyunu\bin\Debug\cnsl-BOMOyunu.exe
+C:\Users\Section1\Documents\MS-YAZ16\cnsl-BOMOyunu\cnsl-BOMOyunu\bin\Debug\cnsl-BOMOyunu.pdb
+C:\Users\Section1\Documents\MS-YAZ16\cnsl-BOMOyunu\cnsl-BOMOyunu\obj\Debug\cnsl-BOMOyunu.csprojResolveAssemblyReference.cache
+C:\Users\Section1\Documents\MS-YAZ16\cnsl-BOMOyunu\cnsl-BOMOyunu\obj\Debug\cnsl-BOMOyunu.exe
+C:\Users\Section1\Documents\MS-YAZ16\cnsl-BOMOyunu\cnsl-BOMOyunu\obj\Debug\cnsl-BOMOyunu.pdb

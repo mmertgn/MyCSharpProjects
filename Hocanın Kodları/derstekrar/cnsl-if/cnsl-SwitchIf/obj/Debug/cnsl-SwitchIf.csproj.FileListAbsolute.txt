@@ -1,0 +1,5 @@
+C:\Users\Section1\Documents\MS-YAZ16\derstekrar\cnsl-if\cnsl-SwitchIf\bin\Debug\cnsl-SwitchIf.exe.config
+C:\Users\Section1\Documents\MS-YAZ16\derstekrar\cnsl-if\cnsl-SwitchIf\bin\Debug\cnsl-SwitchIf.exe
+C:\Users\Section1\Documents\MS-YAZ16\derstekrar\cnsl-if\cnsl-SwitchIf\bin\Debug\cnsl-SwitchIf.pdb
+C:\Users\Section1\Documents\MS-YAZ16\derstekrar\cnsl-if\cnsl-SwitchIf\obj\Debug\cnsl-SwitchIf.exe
+C:\Users\Section1\Documents\MS-YAZ16\derstekrar\cnsl-if\cnsl-SwitchIf\obj\Debug\cnsl-SwitchIf.pdb

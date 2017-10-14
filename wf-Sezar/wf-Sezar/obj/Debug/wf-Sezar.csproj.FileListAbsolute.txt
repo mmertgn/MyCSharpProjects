@@ -1,0 +1,9 @@
+C:\Users\Section1\Documents\MS-YAZ16\wf-Sezar\wf-Sezar\bin\Debug\wf-Sezar.exe.config
+C:\Users\Section1\Documents\MS-YAZ16\wf-Sezar\wf-Sezar\bin\Debug\wf-Sezar.exe
+C:\Users\Section1\Documents\MS-YAZ16\wf-Sezar\wf-Sezar\bin\Debug\wf-Sezar.pdb
+C:\Users\Section1\Documents\MS-YAZ16\wf-Sezar\wf-Sezar\obj\Debug\wf-Sezar.csprojResolveAssemblyReference.cache
+C:\Users\Section1\Documents\MS-YAZ16\wf-Sezar\wf-Sezar\obj\Debug\wf_Sezar.Form1.resources
+C:\Users\Section1\Documents\MS-YAZ16\wf-Sezar\wf-Sezar\obj\Debug\wf_Sezar.Properties.Resources.resources
+C:\Users\Section1\Documents\MS-YAZ16\wf-Sezar\wf-Sezar\obj\Debug\wf-Sezar.csproj.GenerateResource.Cache
+C:\Users\Section1\Documents\MS-YAZ16\wf-Sezar\wf-Sezar\obj\Debug\wf-Sezar.exe
+C:\Users\Section1\Documents\MS-YAZ16\wf-Sezar\wf-Sezar\obj\Debug\wf-Sezar.pdb

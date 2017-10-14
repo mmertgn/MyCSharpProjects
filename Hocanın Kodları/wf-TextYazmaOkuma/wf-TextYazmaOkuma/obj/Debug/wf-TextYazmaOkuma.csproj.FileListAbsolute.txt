@@ -1,0 +1,9 @@
+C:\Users\Section1\Documents\MS-YAZ16\wf-TextYazmaOkuma\wf-TextYazmaOkuma\bin\Debug\wf-TextYazmaOkuma.exe.config
+C:\Users\Section1\Documents\MS-YAZ16\wf-TextYazmaOkuma\wf-TextYazmaOkuma\bin\Debug\wf-TextYazmaOkuma.exe
+C:\Users\Section1\Documents\MS-YAZ16\wf-TextYazmaOkuma\wf-TextYazmaOkuma\bin\Debug\wf-TextYazmaOkuma.pdb
+C:\Users\Section1\Documents\MS-YAZ16\wf-TextYazmaOkuma\wf-TextYazmaOkuma\obj\Debug\wf-TextYazmaOkuma.csprojResolveAssemblyReference.cache
+C:\Users\Section1\Documents\MS-YAZ16\wf-TextYazmaOkuma\wf-TextYazmaOkuma\obj\Debug\wf_TextYazmaOkuma.Form1.resources
+C:\Users\Section1\Documents\MS-YAZ16\wf-TextYazmaOkuma\wf-TextYazmaOkuma\obj\Debug\wf_TextYazmaOkuma.Properties.Resources.resources
+C:\Users\Section1\Documents\MS-YAZ16\wf-TextYazmaOkuma\wf-TextYazmaOkuma\obj\Debug\wf-TextYazmaOkuma.csproj.GenerateResource.Cache
+C:\Users\Section1\Documents\MS-YAZ16\wf-TextYazmaOkuma\wf-TextYazmaOkuma\obj\Debug\wf-TextYazmaOkuma.exe
+C:\Users\Section1\Documents\MS-YAZ16\wf-TextYazmaOkuma\wf-TextYazmaOkuma\obj\Debug\wf-TextYazmaOkuma.pdb

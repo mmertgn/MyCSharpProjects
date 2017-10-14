@@ -1,0 +1,6 @@
+C:\Users\Section1\Documents\MS-YAZ16\cnsl-YasHesabi\cnsl-YasHesabi\bin\Debug\cnsl-YasHesabi.exe.config
+C:\Users\Section1\Documents\MS-YAZ16\cnsl-YasHesabi\cnsl-YasHesabi\bin\Debug\cnsl-YasHesabi.exe
+C:\Users\Section1\Documents\MS-YAZ16\cnsl-YasHesabi\cnsl-YasHesabi\bin\Debug\cnsl-YasHesabi.pdb
+C:\Users\Section1\Documents\MS-YAZ16\cnsl-YasHesabi\cnsl-YasHesabi\obj\Debug\cnsl-YasHesabi.csprojResolveAssemblyReference.cache
+C:\Users\Section1\Documents\MS-YAZ16\cnsl-YasHesabi\cnsl-YasHesabi\obj\Debug\cnsl-YasHesabi.exe
+C:\Users\Section1\Documents\MS-YAZ16\cnsl-YasHesabi\cnsl-YasHesabi\obj\Debug\cnsl-YasHesabi.pdb

@@ -1,0 +1,6 @@
+c:\users\section1\documents\visual studio 2015\Projects\cnsl-WhileDongusu\cnsl-WhileDongusu\bin\Debug\cnsl-WhileDongusu.exe.config
+c:\users\section1\documents\visual studio 2015\Projects\cnsl-WhileDongusu\cnsl-WhileDongusu\bin\Debug\cnsl-WhileDongusu.exe
+c:\users\section1\documents\visual studio 2015\Projects\cnsl-WhileDongusu\cnsl-WhileDongusu\bin\Debug\cnsl-WhileDongusu.pdb
+c:\users\section1\documents\visual studio 2015\Projects\cnsl-WhileDongusu\cnsl-WhileDongusu\obj\Debug\cnsl-WhileDongusu.exe
+c:\users\section1\documents\visual studio 2015\Projects\cnsl-WhileDongusu\cnsl-WhileDongusu\obj\Debug\cnsl-WhileDongusu.pdb
+c:\users\section1\documents\visual studio 2015\Projects\cnsl-WhileDongusu\cnsl-WhileDongusu\obj\Debug\cnsl-WhileDongusu.csprojResolveAssemblyReference.cache

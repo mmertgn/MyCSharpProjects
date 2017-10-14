@@ -1,0 +1,6 @@
+C:\Users\Section1\Documents\MS-YAZ16\cnsl-WhileDongusu\cnsl-WhileDongusu\bin\Debug\cnsl-WhileDongusu.exe.config
+C:\Users\Section1\Documents\MS-YAZ16\cnsl-WhileDongusu\cnsl-WhileDongusu\bin\Debug\cnsl-WhileDongusu.exe
+C:\Users\Section1\Documents\MS-YAZ16\cnsl-WhileDongusu\cnsl-WhileDongusu\bin\Debug\cnsl-WhileDongusu.pdb
+C:\Users\Section1\Documents\MS-YAZ16\cnsl-WhileDongusu\cnsl-WhileDongusu\obj\Debug\cnsl-WhileDongusu.exe
+C:\Users\Section1\Documents\MS-YAZ16\cnsl-WhileDongusu\cnsl-WhileDongusu\obj\Debug\cnsl-WhileDongusu.pdb
+C:\Users\Section1\Documents\MS-YAZ16\cnsl-WhileDongusu\cnsl-WhileDongusu\obj\Debug\cnsl-WhileDongusu.csprojResolveAssemblyReference.cache

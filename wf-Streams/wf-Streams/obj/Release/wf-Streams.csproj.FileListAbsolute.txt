@@ -1,0 +1,8 @@
+C:\Users\Section1\Documents\MS-YAZ16\wf-Streams\wf-Streams\bin\Release\wf-Streams.exe.config
+C:\Users\Section1\Documents\MS-YAZ16\wf-Streams\wf-Streams\bin\Release\wf-Streams.exe
+C:\Users\Section1\Documents\MS-YAZ16\wf-Streams\wf-Streams\bin\Release\wf-Streams.pdb
+C:\Users\Section1\Documents\MS-YAZ16\wf-Streams\wf-Streams\obj\Release\wf_Streams.Form1.resources
+C:\Users\Section1\Documents\MS-YAZ16\wf-Streams\wf-Streams\obj\Release\wf_Streams.Properties.Resources.resources
+C:\Users\Section1\Documents\MS-YAZ16\wf-Streams\wf-Streams\obj\Release\wf-Streams.csproj.GenerateResource.Cache
+C:\Users\Section1\Documents\MS-YAZ16\wf-Streams\wf-Streams\obj\Release\wf-Streams.exe
+C:\Users\Section1\Documents\MS-YAZ16\wf-Streams\wf-Streams\obj\Release\wf-Streams.pdb

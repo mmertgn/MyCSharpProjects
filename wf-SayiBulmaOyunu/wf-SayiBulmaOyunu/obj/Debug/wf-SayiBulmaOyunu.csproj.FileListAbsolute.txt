@@ -1,0 +1,9 @@
+C:\Users\Section1\Documents\MS-YAZ16\wf-SayiBulmaOyunu\wf-SayiBulmaOyunu\bin\Debug\wf-SayiBulmaOyunu.exe.config
+C:\Users\Section1\Documents\MS-YAZ16\wf-SayiBulmaOyunu\wf-SayiBulmaOyunu\bin\Debug\wf-SayiBulmaOyunu.exe
+C:\Users\Section1\Documents\MS-YAZ16\wf-SayiBulmaOyunu\wf-SayiBulmaOyunu\bin\Debug\wf-SayiBulmaOyunu.pdb
+C:\Users\Section1\Documents\MS-YAZ16\wf-SayiBulmaOyunu\wf-SayiBulmaOyunu\obj\Debug\wf-SayiBulmaOyunu.csprojResolveAssemblyReference.cache
+C:\Users\Section1\Documents\MS-YAZ16\wf-SayiBulmaOyunu\wf-SayiBulmaOyunu\obj\Debug\wf_SayiBulmaOyunu.Form1.resources
+C:\Users\Section1\Documents\MS-YAZ16\wf-SayiBulmaOyunu\wf-SayiBulmaOyunu\obj\Debug\wf_SayiBulmaOyunu.Properties.Resources.resources
+C:\Users\Section1\Documents\MS-YAZ16\wf-SayiBulmaOyunu\wf-SayiBulmaOyunu\obj\Debug\wf-SayiBulmaOyunu.csproj.GenerateResource.Cache
+C:\Users\Section1\Documents\MS-YAZ16\wf-SayiBulmaOyunu\wf-SayiBulmaOyunu\obj\Debug\wf-SayiBulmaOyunu.exe
+C:\Users\Section1\Documents\MS-YAZ16\wf-SayiBulmaOyunu\wf-SayiBulmaOyunu\obj\Debug\wf-SayiBulmaOyunu.pdb

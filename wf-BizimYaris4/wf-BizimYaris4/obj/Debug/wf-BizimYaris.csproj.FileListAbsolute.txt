@@ -1,0 +1,12 @@
+C:\Users\Section1\Documents\MS-YAZ16\wf-BizimYaris4\wf-BizimYaris4\bin\Debug\wf-BizimYaris4.exe.config
+C:\Users\Section1\Documents\MS-YAZ16\wf-BizimYaris4\wf-BizimYaris4\bin\Debug\wf-BizimYaris4.exe
+C:\Users\Section1\Documents\MS-YAZ16\wf-BizimYaris4\wf-BizimYaris4\bin\Debug\wf-BizimYaris4.pdb
+C:\Users\Section1\Documents\MS-YAZ16\wf-BizimYaris4\wf-BizimYaris4\obj\Debug\wf-BizimYaris.csprojResolveAssemblyReference.cache
+C:\Users\Section1\Documents\MS-YAZ16\wf-BizimYaris4\wf-BizimYaris4\obj\Debug\wf_BizimYaris4.Form1.resources
+C:\Users\Section1\Documents\MS-YAZ16\wf-BizimYaris4\wf-BizimYaris4\obj\Debug\wf_BizimYaris4.Properties.Resources.resources
+C:\Users\Section1\Documents\MS-YAZ16\wf-BizimYaris4\wf-BizimYaris4\obj\Debug\wf-BizimYaris.csproj.GenerateResource.Cache
+C:\Users\Section1\Documents\MS-YAZ16\wf-BizimYaris4\wf-BizimYaris4\obj\Debug\wf-BizimYaris4.exe
+C:\Users\Section1\Documents\MS-YAZ16\wf-BizimYaris4\wf-BizimYaris4\obj\Debug\wf-BizimYaris4.pdb
+C:\Users\Mert\Documents\Visual Studio 2015\Projects\wf-BizimYaris4\wf-BizimYaris4\bin\Debug\wf-BizimYaris4.exe.config
+C:\Users\Mert\Documents\Visual Studio 2015\Projects\wf-BizimYaris4\wf-BizimYaris4\obj\Debug\wf-BizimYaris4.exe
+C:\Users\Mert\Documents\Visual Studio 2015\Projects\wf-BizimYaris4\wf-BizimYaris4\obj\Debug\wf-BizimYaris4.pdb
