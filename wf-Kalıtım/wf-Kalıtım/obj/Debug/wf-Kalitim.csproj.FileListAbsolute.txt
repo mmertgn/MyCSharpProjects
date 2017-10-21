@@ -1,0 +1,9 @@
+C:\Users\Section1\Documents\MS-YAZ16\wf-Kalıtım\wf-Kalıtım\bin\Debug\wf-Kalıtım.exe.config
+C:\Users\Section1\Documents\MS-YAZ16\wf-Kalıtım\wf-Kalıtım\bin\Debug\wf-Kalıtım.exe
+C:\Users\Section1\Documents\MS-YAZ16\wf-Kalıtım\wf-Kalıtım\bin\Debug\wf-Kalıtım.pdb
+C:\Users\Section1\Documents\MS-YAZ16\wf-Kalıtım\wf-Kalıtım\obj\Debug\wf-Kalitim.csprojResolveAssemblyReference.cache
+C:\Users\Section1\Documents\MS-YAZ16\wf-Kalıtım\wf-Kalıtım\obj\Debug\wf_Kalitim.Form1.resources
+C:\Users\Section1\Documents\MS-YAZ16\wf-Kalıtım\wf-Kalıtım\obj\Debug\wf_Kalıtım.Properties.Resources.resources
+C:\Users\Section1\Documents\MS-YAZ16\wf-Kalıtım\wf-Kalıtım\obj\Debug\wf-Kalitim.csproj.GenerateResource.Cache
+C:\Users\Section1\Documents\MS-YAZ16\wf-Kalıtım\wf-Kalıtım\obj\Debug\wf-Kalıtım.exe
+C:\Users\Section1\Documents\MS-YAZ16\wf-Kalıtım\wf-Kalıtım\obj\Debug\wf-Kalıtım.pdb

@@ -1,0 +1,16 @@
+5;ACC5;12.10.2017;20;Para Yatırma
+5;ACC5;12.10.2017;220;Para Çekme
+5;ACC5;12.10.2017;250;Para Yatırma
+6;ACC3035;13.10.2017;1250;Para Yatırma
+7;ACC8645;13.10.2017;1250;Para Yatırma
+5;ACC5;16.10.2017;20;Para Çekme
+5;ACC5;16.10.2017;20;Para Çekme
+5;ACC5;16.10.2017;100;Para Yatırma
+5;ACC5;16.10.2017;100;Para Çekme
+5;ACC5;16.10.2017;75;Para Yatırma
+5;ACC5;16.10.2017;10;Para Yatırma
+5;ACC5;16.10.2017;35;Para Yatırma
+5;ACC5;16.10.2017;14;Para Çekme
+5;ACC5;16.10.2017;28;Para Çekme
+5;ACC5;16.10.2017;500;Para Yatırma
+5;ACC5;16.10.2017;102;Para Yatırma

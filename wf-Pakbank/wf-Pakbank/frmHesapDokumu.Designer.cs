@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frmHesapDokumu));
             this.lvHesapHareketleri = new System.Windows.Forms.ListView();
             this.columnHeader1 = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
             this.columnHeader2 = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
@@ -38,6 +39,8 @@
             this.txtHesapAra = new System.Windows.Forms.TextBox();
             this.btnHesapAra = new System.Windows.Forms.Button();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
+            this.txtAcilisTarihi = new System.Windows.Forms.TextBox();
+            this.label6 = new System.Windows.Forms.Label();
             this.txtHesapTuru = new System.Windows.Forms.TextBox();
             this.label5 = new System.Windows.Forms.Label();
             this.txtTCKN = new System.Windows.Forms.TextBox();
@@ -48,16 +51,16 @@
             this.label2 = new System.Windows.Forms.Label();
             this.groupBox2 = new System.Windows.Forms.GroupBox();
             this.groupBox3 = new System.Windows.Forms.GroupBox();
-            this.txtAcilisTarihi = new System.Windows.Forms.TextBox();
-            this.label6 = new System.Windows.Forms.Label();
+            this.btnYazdir = new System.Windows.Forms.Button();
+            this.btnParaIslemleri = new System.Windows.Forms.Button();
             this.txtBakiye = new System.Windows.Forms.TextBox();
             this.txtToplamCekilen = new System.Windows.Forms.TextBox();
-            this.label7 = new System.Windows.Forms.Label();
-            this.label8 = new System.Windows.Forms.Label();
             this.txtToplamYatan = new System.Windows.Forms.TextBox();
+            this.label7 = new System.Windows.Forms.Label();
             this.label9 = new System.Windows.Forms.Label();
-            this.btnParaIslemleri = new System.Windows.Forms.Button();
-            this.btnYazdir = new System.Windows.Forms.Button();
+            this.label8 = new System.Windows.Forms.Label();
+            this.pdocHareketler = new System.Drawing.Printing.PrintDocument();
+            this.ppdHareketler = new System.Windows.Forms.PrintPreviewDialog();
             this.groupBox1.SuspendLayout();
             this.groupBox2.SuspendLayout();
             this.groupBox3.SuspendLayout();
@@ -153,6 +156,24 @@
             this.groupBox1.TabIndex = 4;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Hesap Bilgileri";
+            // 
+            // txtAcilisTarihi
+            // 
+            this.txtAcilisTarihi.Location = new System.Drawing.Point(97, 135);
+            this.txtAcilisTarihi.Name = "txtAcilisTarihi";
+            this.txtAcilisTarihi.ReadOnly = true;
+            this.txtAcilisTarihi.Size = new System.Drawing.Size(170, 21);
+            this.txtAcilisTarihi.TabIndex = 16;
+            this.txtAcilisTarihi.TabStop = false;
+            // 
+            // label6
+            // 
+            this.label6.AutoSize = true;
+            this.label6.Location = new System.Drawing.Point(10, 138);
+            this.label6.Name = "label6";
+            this.label6.Size = new System.Drawing.Size(69, 15);
+            this.label6.TabIndex = 15;
+            this.label6.Text = "Açılış Tarihi";
             // 
             // txtHesapTuru
             // 
@@ -260,23 +281,29 @@
             this.groupBox3.TabStop = false;
             this.groupBox3.Text = "Hesap Dökümü";
             // 
-            // txtAcilisTarihi
+            // btnYazdir
             // 
-            this.txtAcilisTarihi.Location = new System.Drawing.Point(97, 135);
-            this.txtAcilisTarihi.Name = "txtAcilisTarihi";
-            this.txtAcilisTarihi.ReadOnly = true;
-            this.txtAcilisTarihi.Size = new System.Drawing.Size(170, 21);
-            this.txtAcilisTarihi.TabIndex = 16;
-            this.txtAcilisTarihi.TabStop = false;
+            this.btnYazdir.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.btnYazdir.ForeColor = System.Drawing.Color.Black;
+            this.btnYazdir.Location = new System.Drawing.Point(440, 273);
+            this.btnYazdir.Name = "btnYazdir";
+            this.btnYazdir.Size = new System.Drawing.Size(121, 23);
+            this.btnYazdir.TabIndex = 23;
+            this.btnYazdir.Text = "Yazdır";
+            this.btnYazdir.UseVisualStyleBackColor = true;
+            this.btnYazdir.Click += new System.EventHandler(this.btnYazdir_Click);
             // 
-            // label6
+            // btnParaIslemleri
             // 
-            this.label6.AutoSize = true;
-            this.label6.Location = new System.Drawing.Point(10, 138);
-            this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(69, 15);
-            this.label6.TabIndex = 15;
-            this.label6.Text = "Açılış Tarihi";
+            this.btnParaIslemleri.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.btnParaIslemleri.ForeColor = System.Drawing.Color.Black;
+            this.btnParaIslemleri.Location = new System.Drawing.Point(440, 246);
+            this.btnParaIslemleri.Name = "btnParaIslemleri";
+            this.btnParaIslemleri.Size = new System.Drawing.Size(121, 23);
+            this.btnParaIslemleri.TabIndex = 4;
+            this.btnParaIslemleri.Text = "Para İşlemleri";
+            this.btnParaIslemleri.UseVisualStyleBackColor = true;
+            this.btnParaIslemleri.Click += new System.EventHandler(this.btnParaIslemleri_Click);
             // 
             // txtBakiye
             // 
@@ -298,24 +325,6 @@
             this.txtToplamCekilen.TabStop = false;
             this.txtToplamCekilen.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
             // 
-            // label7
-            // 
-            this.label7.AutoSize = true;
-            this.label7.Location = new System.Drawing.Point(24, 277);
-            this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(43, 15);
-            this.label7.TabIndex = 20;
-            this.label7.Text = "Bakiye";
-            // 
-            // label8
-            // 
-            this.label8.AutoSize = true;
-            this.label8.Location = new System.Drawing.Point(24, 251);
-            this.label8.Name = "label8";
-            this.label8.Size = new System.Drawing.Size(122, 15);
-            this.label8.TabIndex = 19;
-            this.label8.Text = "Toplam Çekilen Para";
-            // 
             // txtToplamYatan
             // 
             this.txtToplamYatan.Location = new System.Drawing.Point(152, 222);
@@ -326,6 +335,15 @@
             this.txtToplamYatan.TabStop = false;
             this.txtToplamYatan.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
             // 
+            // label7
+            // 
+            this.label7.AutoSize = true;
+            this.label7.Location = new System.Drawing.Point(24, 277);
+            this.label7.Name = "label7";
+            this.label7.Size = new System.Drawing.Size(43, 15);
+            this.label7.TabIndex = 20;
+            this.label7.Text = "Bakiye";
+            // 
             // label9
             // 
             this.label9.AutoSize = true;
@@ -335,34 +353,37 @@
             this.label9.TabIndex = 17;
             this.label9.Text = "Toplam Yatan Para";
             // 
-            // btnParaIslemleri
+            // label8
             // 
-            this.btnParaIslemleri.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.btnParaIslemleri.ForeColor = System.Drawing.Color.Black;
-            this.btnParaIslemleri.Location = new System.Drawing.Point(440, 246);
-            this.btnParaIslemleri.Name = "btnParaIslemleri";
-            this.btnParaIslemleri.Size = new System.Drawing.Size(121, 23);
-            this.btnParaIslemleri.TabIndex = 4;
-            this.btnParaIslemleri.Text = "Para İşlemleri";
-            this.btnParaIslemleri.UseVisualStyleBackColor = true;
+            this.label8.AutoSize = true;
+            this.label8.Location = new System.Drawing.Point(24, 251);
+            this.label8.Name = "label8";
+            this.label8.Size = new System.Drawing.Size(122, 15);
+            this.label8.TabIndex = 19;
+            this.label8.Text = "Toplam Çekilen Para";
             // 
-            // btnYazdir
+            // pdocHareketler
             // 
-            this.btnYazdir.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.btnYazdir.ForeColor = System.Drawing.Color.Black;
-            this.btnYazdir.Location = new System.Drawing.Point(440, 273);
-            this.btnYazdir.Name = "btnYazdir";
-            this.btnYazdir.Size = new System.Drawing.Size(121, 23);
-            this.btnYazdir.TabIndex = 23;
-            this.btnYazdir.Text = "Yazdır";
-            this.btnYazdir.UseVisualStyleBackColor = true;
+            this.pdocHareketler.PrintPage += new System.Drawing.Printing.PrintPageEventHandler(this.pdocHareketler_PrintPage);
+            // 
+            // ppdHareketler
+            // 
+            this.ppdHareketler.AutoScrollMargin = new System.Drawing.Size(0, 0);
+            this.ppdHareketler.AutoScrollMinSize = new System.Drawing.Size(0, 0);
+            this.ppdHareketler.ClientSize = new System.Drawing.Size(400, 300);
+            this.ppdHareketler.Document = this.pdocHareketler;
+            this.ppdHareketler.Enabled = true;
+            this.ppdHareketler.Icon = ((System.Drawing.Icon)(resources.GetObject("ppdHareketler.Icon")));
+            this.ppdHareketler.Name = "ppdHareketler";
+            this.ppdHareketler.Visible = false;
             // 
             // frmHesapDokumu
             // 
+            this.AcceptButton = this.btnHesapAra;
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.Green;
-            this.ClientSize = new System.Drawing.Size(972, 408);
+            this.ClientSize = new System.Drawing.Size(918, 351);
             this.Controls.Add(this.groupBox3);
             this.Controls.Add(this.groupBox2);
             this.Controls.Add(this.groupBox1);
@@ -389,7 +410,6 @@
         private System.Windows.Forms.ColumnHeader columnHeader5;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.TextBox txtHesapAra;
-        private System.Windows.Forms.Button btnHesapAra;
         private System.Windows.Forms.GroupBox groupBox1;
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.Label label3;
@@ -411,5 +431,8 @@
         private System.Windows.Forms.Label label8;
         private System.Windows.Forms.Button btnYazdir;
         private System.Windows.Forms.Button btnParaIslemleri;
+        public System.Windows.Forms.Button btnHesapAra;
+        private System.Drawing.Printing.PrintDocument pdocHareketler;
+        private System.Windows.Forms.PrintPreviewDialog ppdHareketler;
     }
 }

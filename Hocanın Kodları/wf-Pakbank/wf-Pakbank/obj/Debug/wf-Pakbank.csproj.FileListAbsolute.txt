@@ -9,3 +9,7 @@ C:\Users\Section1\Documents\MS-YAZ16\wf-Pakbank\wf-Pakbank\obj\Debug\wf-Pakbank.
 C:\Users\Section1\Documents\MS-YAZ16\wf-Pakbank\wf-Pakbank\obj\Debug\wf-Pakbank.pdb
 C:\Users\Section1\Documents\MS-YAZ16\wf-Pakbank\wf-Pakbank\obj\Debug\wf_Pakbank.frmHesapAcilisi.resources
 C:\Users\Section1\Documents\MS-YAZ16\wf-Pakbank\wf-Pakbank\obj\Debug\wf_Pakbank.frmHesapDokumu.resources
+C:\Users\Section1\Documents\MS-YAZ16\wf-Pakbank\wf-Pakbank\obj\Debug\wf_Pakbank.frmParaIslemleri.resources
+E:\Hocanın Kodları\wf-Pakbank\wf-Pakbank\bin\Debug\wf-Pakbank.exe.config
+E:\Hocanın Kodları\wf-Pakbank\wf-Pakbank\obj\Debug\wf-Pakbank.exe
+E:\Hocanın Kodları\wf-Pakbank\wf-Pakbank\obj\Debug\wf-Pakbank.pdb

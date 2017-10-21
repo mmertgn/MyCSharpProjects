@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frmHesapDokumu));
             this.label1 = new System.Windows.Forms.Label();
             this.txtHesapNo = new System.Windows.Forms.TextBox();
             this.btnBul = new System.Windows.Forms.Button();
@@ -55,6 +56,8 @@
             this.label9 = new System.Windows.Forms.Label();
             this.btnParaIslemleri = new System.Windows.Forms.Button();
             this.btnYazici = new System.Windows.Forms.Button();
+            this.pdocHareketler = new System.Drawing.Printing.PrintDocument();
+            this.ppdHareketler = new System.Windows.Forms.PrintPreviewDialog();
             this.SuspendLayout();
             // 
             // label1
@@ -277,6 +280,7 @@
             this.btnParaIslemleri.TabIndex = 29;
             this.btnParaIslemleri.Text = "Para İşlemleri";
             this.btnParaIslemleri.UseVisualStyleBackColor = true;
+            this.btnParaIslemleri.Click += new System.EventHandler(this.btnParaIslemleri_Click);
             // 
             // btnYazici
             // 
@@ -286,9 +290,26 @@
             this.btnYazici.TabIndex = 30;
             this.btnYazici.Text = "Yazıcıya Gönder";
             this.btnYazici.UseVisualStyleBackColor = true;
+            this.btnYazici.Click += new System.EventHandler(this.btnYazici_Click);
+            // 
+            // pdocHareketler
+            // 
+            this.pdocHareketler.PrintPage += new System.Drawing.Printing.PrintPageEventHandler(this.pdocHareketler_PrintPage);
+            // 
+            // ppdHareketler
+            // 
+            this.ppdHareketler.AutoScrollMargin = new System.Drawing.Size(0, 0);
+            this.ppdHareketler.AutoScrollMinSize = new System.Drawing.Size(0, 0);
+            this.ppdHareketler.ClientSize = new System.Drawing.Size(400, 300);
+            this.ppdHareketler.Document = this.pdocHareketler;
+            this.ppdHareketler.Enabled = true;
+            this.ppdHareketler.Icon = ((System.Drawing.Icon)(resources.GetObject("ppdHareketler.Icon")));
+            this.ppdHareketler.Name = "ppdHareketler";
+            this.ppdHareketler.Visible = false;
             // 
             // frmHesapDokumu
             // 
+            this.AcceptButton = this.btnBul;
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
@@ -354,5 +375,7 @@
         private System.Windows.Forms.Label label9;
         private System.Windows.Forms.Button btnParaIslemleri;
         private System.Windows.Forms.Button btnYazici;
+        private System.Drawing.Printing.PrintDocument pdocHareketler;
+        private System.Windows.Forms.PrintPreviewDialog ppdHareketler;
     }
 }

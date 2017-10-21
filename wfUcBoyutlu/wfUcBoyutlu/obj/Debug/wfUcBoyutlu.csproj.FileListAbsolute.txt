@@ -1,0 +1,12 @@
+C:\Users\Section1\Documents\MS-YAZ16\wfUcBoyutlu\wfUcBoyutlu\bin\Debug\wfUcBoyutlu.exe.config
+C:\Users\Section1\Documents\MS-YAZ16\wfUcBoyutlu\wfUcBoyutlu\bin\Debug\wfUcBoyutlu.exe
+C:\Users\Section1\Documents\MS-YAZ16\wfUcBoyutlu\wfUcBoyutlu\bin\Debug\wfUcBoyutlu.pdb
+C:\Users\Section1\Documents\MS-YAZ16\wfUcBoyutlu\wfUcBoyutlu\obj\Debug\wfUcBoyutlu.csprojResolveAssemblyReference.cache
+C:\Users\Section1\Documents\MS-YAZ16\wfUcBoyutlu\wfUcBoyutlu\obj\Debug\wfUcBoyutlu.Form1.resources
+C:\Users\Section1\Documents\MS-YAZ16\wfUcBoyutlu\wfUcBoyutlu\obj\Debug\wfUcBoyutlu.Properties.Resources.resources
+C:\Users\Section1\Documents\MS-YAZ16\wfUcBoyutlu\wfUcBoyutlu\obj\Debug\wfUcBoyutlu.csproj.GenerateResource.Cache
+C:\Users\Section1\Documents\MS-YAZ16\wfUcBoyutlu\wfUcBoyutlu\obj\Debug\wfUcBoyutlu.exe
+C:\Users\Section1\Documents\MS-YAZ16\wfUcBoyutlu\wfUcBoyutlu\obj\Debug\wfUcBoyutlu.pdb
+C:\Users\Mert\Documents\Visual Studio 2015\Projects\wfUcBoyutlu\wfUcBoyutlu\bin\Debug\wfUcBoyutlu.exe.config
+C:\Users\Mert\Documents\Visual Studio 2015\Projects\wfUcBoyutlu\wfUcBoyutlu\obj\Debug\wfUcBoyutlu.exe
+C:\Users\Mert\Documents\Visual Studio 2015\Projects\wfUcBoyutlu\wfUcBoyutlu\obj\Debug\wfUcBoyutlu.pdb

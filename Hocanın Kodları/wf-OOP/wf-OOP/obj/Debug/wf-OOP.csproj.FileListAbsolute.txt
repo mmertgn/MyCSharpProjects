@@ -1,0 +1,10 @@
+C:\Users\Section1\Documents\MS-YAZ16\wf-OOP\wf-OOP\bin\Debug\wf-OOP.exe.config
+C:\Users\Section1\Documents\MS-YAZ16\wf-OOP\wf-OOP\bin\Debug\wf-OOP.exe
+C:\Users\Section1\Documents\MS-YAZ16\wf-OOP\wf-OOP\bin\Debug\wf-OOP.pdb
+C:\Users\Section1\Documents\MS-YAZ16\wf-OOP\wf-OOP\obj\Debug\wf-OOP.csprojResolveAssemblyReference.cache
+C:\Users\Section1\Documents\MS-YAZ16\wf-OOP\wf-OOP\obj\Debug\wf_OOP.Form1.resources
+C:\Users\Section1\Documents\MS-YAZ16\wf-OOP\wf-OOP\obj\Debug\wf_OOP.Properties.Resources.resources
+C:\Users\Section1\Documents\MS-YAZ16\wf-OOP\wf-OOP\obj\Debug\wf-OOP.csproj.GenerateResource.Cache
+C:\Users\Section1\Documents\MS-YAZ16\wf-OOP\wf-OOP\obj\Debug\wf-OOP.exe
+C:\Users\Section1\Documents\MS-YAZ16\wf-OOP\wf-OOP\obj\Debug\wf-OOP.pdb
+C:\Users\Section1\Documents\MS-YAZ16\wf-OOP\wf-OOP\obj\Debug\wf_OOP.Form2.resources

@@ -1,0 +1,2 @@
+C:\Users\Section1\Documents\MS-YAZ16\wf-PakBank-OOP\wf-PakBank-OOP\bin\Debug\wf-PakBank-OOP.exe.config
+E:\Hocanın Kodları\wf-PakBank-OOP\wf-PakBank-OOP\bin\Debug\wf-PakBank-OOP.exe.config

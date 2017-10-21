@@ -20,3 +20,5 @@ E:\wf-Pakbank\wf-Pakbank\bin\Debug\wf-Pakbank.exe
 E:\wf-Pakbank\wf-Pakbank\bin\Debug\wf-Pakbank.pdb
 E:\wf-Pakbank\wf-Pakbank\obj\Debug\wf_Pakbank.frmHesapDokumu.resources
 C:\Users\Section1\Documents\MS-YAZ16\wf-Pakbank\wf-Pakbank\obj\Debug\wf_Pakbank.frmHesapDokumu.resources
+C:\Users\Section1\Documents\MS-YAZ16\wf-Pakbank\wf-Pakbank\obj\Debug\wf_Pakbank.frmParaIslemleri.resources
+E:\wf-Pakbank\wf-Pakbank\obj\Debug\wf_Pakbank.frmParaIslemleri.resources

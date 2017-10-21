@@ -1,0 +1,9 @@
+C:\Users\Section1\Documents\MS-YAZ16\wf-Kalitim\wf-Kalitim\bin\Debug\wf-Kalitim.exe.config
+C:\Users\Section1\Documents\MS-YAZ16\wf-Kalitim\wf-Kalitim\obj\Debug\wf-Kalitim.csprojResolveAssemblyReference.cache
+C:\Users\Section1\Documents\MS-YAZ16\wf-Kalitim\wf-Kalitim\obj\Debug\wf_Kalitim.Form1.resources
+C:\Users\Section1\Documents\MS-YAZ16\wf-Kalitim\wf-Kalitim\obj\Debug\wf_Kalitim.Properties.Resources.resources
+C:\Users\Section1\Documents\MS-YAZ16\wf-Kalitim\wf-Kalitim\obj\Debug\wf-Kalitim.csproj.GenerateResource.Cache
+C:\Users\Section1\Documents\MS-YAZ16\wf-Kalitim\wf-Kalitim\bin\Debug\wf-Kalitim.exe
+C:\Users\Section1\Documents\MS-YAZ16\wf-Kalitim\wf-Kalitim\bin\Debug\wf-Kalitim.pdb
+C:\Users\Section1\Documents\MS-YAZ16\wf-Kalitim\wf-Kalitim\obj\Debug\wf-Kalitim.exe
+C:\Users\Section1\Documents\MS-YAZ16\wf-Kalitim\wf-Kalitim\obj\Debug\wf-Kalitim.pdb
